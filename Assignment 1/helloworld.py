@@ -4,7 +4,11 @@
 
 
 
-
+print("hello World")
+color = "blue"
+print ("my favorit color is",color)
+BD = "6-30-05"
+print("My birthday is", BD)
  
 def main():
 
